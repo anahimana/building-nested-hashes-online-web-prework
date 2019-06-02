@@ -7,7 +7,12 @@ def first_challenge
        :hero => {},
        :hero_friends => {}
      },
-     :capulets => {}
+     :capulets => {
+       :patriarch => {},
+       :matriarch => {},
+       :hero => {},
+       :hero_friends => {}
+     }
    }
 
 end
