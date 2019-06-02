@@ -9,7 +9,8 @@ def fourth_challenge
           :name => "value",
           :age => "value",
           :attitude => "value",
-        }
+        },
+      
       ]
    }, 
    :capulet => {
